@@ -1,0 +1,7 @@
+Imports System
+
+Public Module Hello
+   Public Sub Main(  )
+      Console.WriteLine("hello, everyone")
+   End Sub
+End Module
